@@ -1,0 +1,1001 @@
+Last_Name, First_Name, Email, Activity, Duration (minutes), Date
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,54,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Run,43,2020-10-20
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,54,2020-10-17
+Perez,Kim,KP_2020@gmail.com,Bike,19,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,7,2020-10-18
+Perez,Cody,cody.perez@gmail.com,Bike,58,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Run,38,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Run,16,2020-10-19
+Oettinger,David,oettinger@gmail.com,Bike,18,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,45,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,26,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Run,34,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,11,2020-10-23
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,55,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Run,5,2020-10-16
+Perez,Amy,amy.perez@gmail.com,Run,32,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,40,2020-10-18
+Douberley,Tareq,tareq.douberley@gmail.com,Run,7,2020-10-17
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,31,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Run,2,2020-10-14
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,33,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Run,27,2020-10-21
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,43,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,15,2020-10-17
+Van Damme,Cody,cody.vandamme@gmail.com,Run,8,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,47,2020-10-17
+Perez,Kim,kim.perez@gmail.com,Run,18,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Run,60,2020-10-15
+Perez,Cody,cody.perez@gmail.com,Bike,59,2020-10-15
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,53,2020-10-15
+Douberley,David,ddubbs@gmail.com,Swim,25,2020-10-23
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,5,2020-10-23
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,13,2020-10-15
+Perez,Amy,amy.perez@gmail.com,Bike,21,2020-10-19
+Van-Damme,John,john.van-damme@gmail.com,Run,31,2020-10-18
+Van-Damme,John,john.van-damme@gmail.com,Bike,47,2020-10-20
+Douberley,David,ddubbs@gmail.com,Run,43,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,57,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,34,2020-10-18
+Van Damme,Amy,amy.vandamme@gmail.com,Run,39,2020-10-18
+Perez,Amy,amy.perez@gmail.com,Swim,16,2020-10-14
+Douberley, David,ddubbs@gmail.com,Run,41,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Run,50,2020-10-21
+Inid,Joe,joe.inid@gmail.com,Bike,5,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Swim,18,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Swim,26,2020-10-16
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,21,2020-10-18
+Perez,Kim,kim.perez@gmail.com,Swim,3,2020-10-15
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,5,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,24,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Bike,4,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Bike,57,2020-10-19
+Oettinger,David,oettinger@gmail.com,Swim,24,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,25,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Bike,52,2020-10-21
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,35,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Run,18,2020-10-17
+Van-Damme,John,john.van-damme@gmail.com,Bike,6,2020-10-19
+Perez,Kim,kim.perez@gmail.com,Run,35,2020-10-23
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,44,2020-10-21
+Perez,Cody,cody.perez@gmail.com,Swim,50,2020-10-19
+Perez,Kim,KP_2020@gmail.com,Run,45,2020-10-18
+Douberley,David,ddubbs@gmail.com,Bike,57,2020-10-15
+Perez,Kim,KP_2020@gmail.com,Run,54,2020-10-15
+Oettinger,David,oettinger@gmail.com,Swim,2,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,33,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Run,22,2020-10-18
+Oettinger,David,oettinger@gmail.com,Swim,42,2020-10-21
+Oettinger,David,oettinger@gmail.com,Bike,56,2020-10-18
+Van-Damme,John,john.van-damme@gmail.com,Bike,48,2020-10-20
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,12,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Swim,47,2020-10-23
+Douberley,John,john.douberley@gmail.com,Run,58,2020-10-14
+Van Damme,David,david.vandamme@gmail.com,Run,40,2020-10-15
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,43,2020-10-20
+Inid,Joe,joe.inid@gmail.com,Run,51,2020-10-23
+Perez,Kim,kim.perez@gmail.com,Run,12,2020-10-14
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,22,2020-10-18
+Perez,Cody,cody.perez@gmail.com,Run,12,2020-10-18
+Inid,Evelyn,evelyn.inid@gmail.com,Run,55,2020-10-15
+Van-Damme,John,john.van-damme@gmail.com,Run,13,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Bike,42,2020-10-21
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,33,2020-10-22
+Perez,Kim,kim.perez@gmail.com,Run,32,2020-10-23
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,54,2020-10-16
+Perez,Amy,amy.perez@gmail.com,Run,31,2020-10-23
+Perez,Kim,KP_2020@gmail.com,Bike,59,2020-10-16
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,33,2020-10-22
+Van-Damme,John,john.van-damme@gmail.com,Swim,16,2020-10-22
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,54,2020-10-19
+Douberley,John,john.douberley@gmail.com,Run,28,2020-10-16
+Perez,Cody,cody.perez@gmail.com,Bike,42,2020-10-22
+Inid,Joe,joe.inid@gmail.com,Bike,46,2020-10-16
+Oettinger ,Mary-Katherine, oettinger@gmail.com,Run,42,2020-10-16
+Douberley,John,john.douberley@gmail.com,Bike,30,2020-10-20
+Inid,Joe,joe.inid@gmail.com,Run,51,2020-10-22
+Douberley,John,john.douberley@gmail.com,Run,46,2020-10-18
+Van Damme,David,david.vandamme@gmail.com,Run,52,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Swim,39,2020-10-15
+Oettinger,David,oettinger@gmail.com,Swim,48,2020-10-17
+Douberley,David,ddubbs@gmail.com,Bike,21,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,11,2020-10-20
+Inid,Joe,joe.inid@gmail.com,Run,24,2020-10-23
+Perez,Amy,amy.perez@gmail.com,Run,11,2020-10-19
+Douberley,John,john.douberley@gmail.com,Bike,28, 10/19/2020
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,15,2020-10-23
+Douberley,John,john.douberley@gmail.com,Swim,39,2020-10-18
+Perez,Amy,amy.perez@gmail.com,Swim,50,2020-10-18
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,20,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,2,2020-10-17
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,22,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Swim,3,2020-10-15
+Oettinger,David,oettinger@gmail.com,Run,6,2020-10-14
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,12,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Run,57,2020-10-17
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,57,2020-10-21
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,3,2020-10-18
+Douberley,David,ddubbs@gmail.com,Swim,54,2020-10-17
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,2,2020-10-18
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,56,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,9,2020-10-16
+Perez,Cody,cody.perez@gmail.com,Swim,12,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,58,2020-10-18
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,42,2020-10-19
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,1,2020-10-22
+Douberley,John,john.douberley@gmail.com,Swim,23,2020-10-15
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,57,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Run,35,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,52,2020-10-15
+Van Damme,David,david.vandamme@gmail.com,Swim,59,2020-10-23
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,24,2020-10-19
+Perez,Kim,KP_2020@gmail.com,Swim,46,2020-10-14
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,9,2020-10-19
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,48,2020-10-17
+Douberley,John,john.douberley@gmail.com,Run,26,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,22,2020-10-20
+Perez,Kim,KP_2020@gmail.com,Run,53,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Swim,28,2020-10-15
+Perez,Evelyn,evelyn.perez@gmail.com,Run,36,2020-10-19
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,45,2020-10-21
+Inid,Joe,joe.inid@gmail.com,Swim,57,2020-10-21
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,43,2020-10-14
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,56,2020-10-16
+Oettinger,David,oettinger@gmail.com,Bike,48,2020-10-20
+Oettinger,David,oettinger@gmail.com,Bike,31,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Swim,17,2020-10-23
+Perez,Evelyn,evelyn.perez@gmail.com,Run,15,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,25,2020-10-19
+Van-Damme,John,john.van-damme@gmail.com,Bike,59,2020-10-20
+Perez,Cody,cody.perez@gmail.com,Swim,15,2020-10-16
+Perez,Amy,amy.perez@gmail.com,Run,28,2020-10-17
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,21,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Run,6,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Bike,3,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,18,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,23,2020-10-18
+Douberley,David,ddubbs@gmail.com,Swim,16,2020-10-15
+Van Damme,David,david.vandamme@gmail.com,Bike,17,2020-10-15
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,17,2020-10-21
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,59,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,32,2020-10-23
+Douberley,David,ddubbs@gmail.com,Run,35,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,1,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Run,21,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Run,25,2020-10-19
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,10,2020-10-15
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,35,2020-10-14
+Van Damme,David,david.vandamme@gmail.com,Run,22,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,33,2020-10-22
+Oettinger,David,oettinger@gmail.com,Swim,38,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Bike,53,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,8,2020-10-15
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,49,2020-10-16
+Van-Damme,John,john.van-damme@gmail.com,Bike,10,2020-10-21
+Perez,Cody,cody.perez@gmail.com,Bike,14,2020-10-19
+Douberley,John,john.douberley@gmail.com,Swim,24,2020-10-21
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,23,2020-10-21
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,59,2020-10-23
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,29,2020-10-15
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,6,2020-10-18
+Van Damme,Amy,amy.vandamme@gmail.com,Run,1,2020-10-22
+Van Damme,Amy,amy.vandamme@gmail.com,Run,7,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,40,2020-10-17
+Perez,Amy,amy.perez@gmail.com,Run,31,2020-10-17
+Oettinger,David,oettinger@gmail.com,Swim,58,2020-10-16
+Douberley,David,ddubbs@gmail.com,Swim,46,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,22,2020-10-15
+Douberley,John,john.douberley@gmail.com,Run,56,2020-10-21
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,8,2020-10-15
+Perez,Kim,KP_2020@gmail.com,Bike,54,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Swim,15,2020-10-19
+Van Damme,David,david.vandamme@gmail.com,Bike,18,2020-10-16
+Oettinger,David,oettinger@gmail.com,Bike,52,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Run,30,2020-10-20
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,2,2020-10-17
+Van Damme,Amy,amy.vandamme@gmail.com,Run,53,2020-10-18
+Van Damme,Cody,cody.vandamme@gmail.com,Run,58,2020-10-14
+Inid,Joe,joe.inid@gmail.com,Swim,33,2020-10-18
+Douberley,David,ddubbs@gmail.com,Run,7,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Bike,44,2020-10-20
+Perez,Cody,cody.perez@gmail.com,Swim,20,2020-10-16
+Oettinger,David,oettinger@gmail.com,Run,15,2020-10-14
+Douberley,David,ddubbs@gmail.com,Swim,13,2020-10-19
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,33,2020-10-22
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,15,2020-10-21
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,27,2020-10-18
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,8,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,35,2020-10-18
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,29,2020-10-21
+Oettinger,David,oettinger@gmail.com,Swim,47,2020-10-19
+Perez,Kim,kim.perez@gmail.com,Run,9,2020-10-14
+Perez,Kim,kim.perez@gmail.com,Swim,10,2020-10-19
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,56,2020-10-22
+Perez,Kim,KP_2020@gmail.com,Bike,38,2020-10-22
+Perez,Evelyn,evelyn.perez@gmail.com,Run,19,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,46,2020-10-14
+Van-Damme,John,john.van-damme@gmail.com,Run,19,2020-10-18
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,32,2020-10-18
+Perez,Kim,kim.perez@gmail.com,Run,29,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,59,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,44,2020-10-20
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,10,2020-10-19
+Van Damme,David,david.vandamme@gmail.com,Swim,10,2020-10-19
+Perez,Amy,amy.perez@gmail.com,Run,17,2020-10-20
+Douberley,David,ddubbs@gmail.com,Bike,4,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,4,2020-10-18
+Van-Damme,John,john.van-damme@gmail.com,Bike,6,2020-10-21
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,59,2020-10-15
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,18,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Run,23,2020-10-18
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,24,2020-10-23
+Oettinger,David,oettinger@gmail.com,Bike,29,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Run,18,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,10,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,59,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,10,2020-10-17
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,27,2020-10-21
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,7,2020-10-22
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,26,2020-10-17
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,36,2020-10-22
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,23,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,33,2020-10-18
+Douberley,John,john.douberley@gmail.com,Run,52,2020-10-22
+Douberley,John,john.douberley@gmail.com,Bike,8,2020-10-17
+Douberley,David,ddubbs@gmail.com,Run,40,2020-10-14
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,23,2020-10-20
+Douberley,David,ddubbs@gmail.com,Run,21,2020-10-21
+Perez,Evelyn,evelyn.perez@gmail.com,Run,44,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,39,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,15,2020-10-20
+Perez,Kim,KP_2020@gmail.com,Swim,17,2020-10-14
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,39,2020-10-16
+Van-Damme,John,john.van-damme@gmail.com,Bike,40,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Run,17,2020-10-17
+Perez,Amy,amy.perez@gmail.com,Run,4,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Run,54,2020-10-15
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,5,2020-10-15
+Van-Damme,John,john.van-damme@gmail.com,Swim,49,2020-10-14
+Inid,Evelyn,evelyn.inid@gmail.com,Run,15,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Run,25,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Swim,42,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,43,2020-10-23
+Perez,Kim,KP_2020@gmail.com,Bike,23,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,37,2020-10-16
+Van-Damme,John,john.van-damme@gmail.com,Bike,31,2020-10-18
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,3,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Run,51,2020-10-16
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,27,2020-10-21
+Oettinger,David,oettinger@gmail.com,Swim,56,2020-10-17
+Van Damme,David,david.vandamme@gmail.com,Swim,26,2020-10-18
+Perez,Cody,cody.perez@gmail.com,Run,43,2020-10-19
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,17,2020-10-19
+Oettinger,David,oettinger@gmail.com,Run,36,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,52,2020-10-23
+Perez,Amy,amy.perez@gmail.com,Bike,14,2020-10-20
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,25,2020-10-21
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,5,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Run,35,2020-10-22
+Perez,Kim,kim.perez@gmail.com,Swim,51,2020-10-22
+Oettinger,David,oettinger@gmail.com,Swim,22,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,55,2020-10-19
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,31,2020-10-20
+Oettinger,David,oettinger@gmail.com,Run,56,2020-10-20
+Oettinger,David,oettinger@gmail.com,Bike,1,2020-10-16
+Perez,Kim,kim.perez@gmail.com,Bike,8,2020-10-14
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,34,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,1,2020-10-16
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,1,2020-10-21
+Van-Damme,John,john.van-damme@gmail.com,Run,22,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,13,2020-10-17
+Inid,Joe,joe.inid@gmail.com,Swim,26,2020-10-21
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,28,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,52,2020-10-19
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,2,2020-10-20
+Oettinger,David,oettinger@gmail.com,Swim,10,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Run,37,2020-10-20
+Oettinger,David,oettinger@gmail.com,Swim,16,2020-10-21
+Perez,Kim,kim.perez@gmail.com,Run,2,2020-10-20
+Inid,Joe,joe.inid@gmail.com,Run,35,2020-10-18
+Perez,Amy,amy.perez@gmail.com,Swim,17,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,25,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,6,2020-10-16
+Douberley,John,john.douberley@gmail.com,Swim,12,2020-10-17
+Perez,Cody,cody.perez@gmail.com,Swim,33,2020-10-14
+Oettinger,David,oettinger@gmail.com,Swim,1,2020-10-20
+Douberley,David,ddubbs@gmail.com,Swim,28,2020-10-23
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,58,2020-10-14
+Oettinger,David,oettinger@gmail.com,Run,12,2020-10-15
+Perez,Cody,cody.perez@gmail.com,Bike,4,2020-10-17
+Oettinger,David,oettinger@gmail.com,Bike,28,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Run,26,2020-10-22
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,11,2020-10-19
+Perez,Amy,amy.perez@gmail.com,Swim,17,2020-10-17
+Perez,Cody,cody.perez@gmail.com,Run,1,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Swim,32,2020-10-17
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,48,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Swim,19,2020-10-15
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,45,2020-10-22
+Van Damme,David,david.vandamme@gmail.com,Bike,44,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,30,2020-10-18
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,56,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Swim,58,2020-10-20
+Douberley,John,john.douberley@gmail.com,Bike,15,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,13,2020-10-22
+Douberley,David,ddubbs@gmail.com,Swim,30,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Bike,14,2020-10-21
+Van Damme,David,david.vandamme@gmail.com,Bike,1,2020-10-20
+Perez,Cody,cody.perez@gmail.com,Bike,21,2020-10-19
+Van-Damme,John,john.van-damme@gmail.com,Swim,20,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Bike,45,2020-10-19
+Oettinger,David,oettinger@gmail.com,Bike,7,2020-10-18
+Inid,Joe,joe.inid@gmail.com,Run,7,2020-10-15
+Van-Damme,John,john.van-damme@gmail.com,Swim,43,2020-10-18
+Van Damme,David,david.vandamme@gmail.com,Run,59,2020-10-20
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,4,2020-10-18
+Oettinger,David,oettinger@gmail.com,Bike,3,2020-10-22
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,38,2020-10-16
+Van Damme,David,david.vandamme@gmail.com,Run,1,2020-10-17
+Inid,Joe,joe.inid@gmail.com,Swim,17,2020-10-18
+Van Damme,Krista,krista.vandamme@gmail.com,Run,26,2020-10-18
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,53,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Bike,57,2020-10-21
+Perez,Cody,cody.perez@gmail.com,Run,47,2020-10-15
+Perez,Kim,kim.perez@gmail.com,Run,41,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Swim,5,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Run,4,2020-10-18
+Van-Damme,John,john.van-damme@gmail.com,Bike,56,2020-10-22
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,6,2020-10-16
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,2,2020-10-14
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,23,2020-10-20
+Oettinger,David,oettinger@gmail.com,Run,26,2020-10-17
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,29,2020-10-18
+Oettinger,David,oettinger@gmail.com,Swim,41,2020-10-18
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,12,2020-10-22
+Inid,Joe,joe.inid@gmail.com,Bike,56,2020-10-16
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,23,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,18,2020-10-20
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,58,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Swim,27,2020-10-17
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,11,2020-10-17
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,39,2020-10-18
+Van-Damme,John,john.van-damme@gmail.com,Bike,23,2020-10-14
+Oettinger,David,oettinger@gmail.com,Swim,50,2020-10-16
+Perez,Cody,cody.perez@gmail.com,Bike,34,2020-10-16
+Van Damme,Amy,amy.vandamme@gmail.com,Run,9,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,18,2020-10-17
+Oettinger,David,oettinger@gmail.com,Swim,51,2020-10-21
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,4,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,23,2020-10-15
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,7,2020-10-15
+Van Damme,David,david.vandamme@gmail.com,Bike,33,2020-10-15
+Perez,Kim,kim.perez@gmail.com,Run,18,2020-10-16
+Van Damme,Amy,amy.vandamme@gmail.com,Run,45,2020-10-16
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,33,2020-10-16
+Van Damme,David,david.vandamme@gmail.com,Swim,23,2020-10-15
+Douberley,John,john.douberley@gmail.com,Bike,11,2020-10-15
+Perez,Kim,KP_2020@gmail.com,Bike,4,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,24,2020-10-19
+Perez,Kim,kim.perez@gmail.com,Swim,31,2020-10-22
+Perez,Cody,cody.perez@gmail.com,Run,44,2020-10-16
+Van-Damme,John,john.van-damme@gmail.com,Run,40,2020-10-21
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,39,2020-10-19
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,57,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Swim,59,2020-10-22
+Douberley,John,john.douberley@gmail.com,Run,57,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,17,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,40,2020-10-18
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,12,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Run,11,2020-10-14
+Van-Damme,John,john.van-damme@gmail.com,Bike,11,2020-10-22
+Oettinger,David,oettinger@gmail.com,Run,41,2020-10-22
+Van-Damme,John,john.van-damme@gmail.com,Swim,21,2020-10-14
+Perez,Cody,cody.perez@gmail.com,Bike,11,2020-10-17
+Van-Damme,John,john.van-damme@gmail.com,Run,14,2020-10-17
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,15,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,10,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,56,2020-10-14
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,55,2020-10-17
+Oettinger,David,oettinger@gmail.com,Swim,13,2020-10-19
+Van-Damme,John,john.van-damme@gmail.com,Run,44,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,26,2020-10-14
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,32,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,7,2020-10-23
+Oettinger,David,oettinger@gmail.com,Swim,40,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Swim,38,2020-10-19
+Van Damme,David,david.vandamme@gmail.com,Bike,33,2020-10-15
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,38,2020-10-20
+Van Damme,David,david.vandamme@gmail.com,Bike,42,2020-10-22
+Douberley,John,john.douberley@gmail.com,Run,54,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Run,16,2020-10-16
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,31,2020-10-22
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,27,2020-10-17
+Perez,Kim,kim.perez@gmail.com,Bike,17,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Run,15,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Run,2,2020-10-14
+Perez,Cody,cody.perez@gmail.com,Run,35,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Swim,18,2020-10-18
+Van Damme,Krista,krista.vandamme@gmail.com,Run,32,2020-10-17
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,4,2020-10-22
+Douberley,John,john.douberley@gmail.com,Swim,38,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,46,2020-10-18
+Perez,Amy,amy.perez@gmail.com,Swim,49,2020-10-16
+Perez,Amy,amy.perez@gmail.com,Run,20,2020-10-20
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,32,2020-10-18
+Perez,Kim,kim.perez@gmail.com,Swim,100,2020-10-18
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,19,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,41,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,21,2020-10-14
+Douberley,John,john.douberley@gmail.com,Swim,4,2020-10-16
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,55,2020-10-20
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,59,2020-10-16
+Van Damme,Cody,cody.vandamme@gmail.com,Run,24,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Run,33,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Swim,43,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Run,33,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,57,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Swim,27,2020-10-14
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,23,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,2,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Swim,18,2020-10-18
+Douberley,David,ddubbs@gmail.com,Swim,57,2020-10-22
+Perez,Cody,cody.perez@gmail.com,Bike,41,2020-10-20
+Douberley,John,john.douberley@gmail.com,Run,26,2020-10-14
+Van Damme,David,david.vandamme@gmail.com,Bike,41,2020-10-15
+Perez,Kim,kim.perez@gmail.com,Bike,2,2020-10-17
+Oettinger,David,oettinger@gmail.com,Bike,40,2020-10-23
+Inid,Evelyn,evelyn.inid@gmail.com,Run,3,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,35,2020-10-21
+Oettinger,David,oettinger@gmail.com,Swim,35,2020-10-19
+Oettinger,David,oettinger@gmail.com,Run,27,2020-10-15
+Van Damme,Amy,amy.vandamme@gmail.com,Run,57,2020-10-19
+Perez,Kim,KP_2020@gmail.com,Bike,51,2020-10-17
+Oettinger,David,oettinger@gmail.com,Swim,1,2020-10-17
+Oettinger,David,oettinger@gmail.com,Run,57,2020-10-15
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,16,2020-10-16
+Van Damme,David,david.vandamme@gmail.com,Bike,43,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,42,2020-10-21
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,21,2020-10-20
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,27,2020-10-23
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,45,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Swim,19,2020-10-19
+Perez,Kim,kim.perez@gmail.com,Run,31,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,13,2020-10-14
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,22,2020-10-21
+Douberley,David,ddubbs@gmail.com,Bike,45,2020-10-17
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,33,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,55,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Bike,14,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,17,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Bike,17,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Bike,51,2020-10-17
+Douberley,David,ddubbs@gmail.com,Bike,29,2020-10-16
+Van Damme,Krista,krista.vandamme@gmail.com,Run,13,2020-10-15
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,6,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Swim,43,2020-10-17
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,25,2020-10-14
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,50,2020-10-14
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,35,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Bike,44,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Swim,14,2020-10-21
+Perez,Kim,kim.perez@gmail.com,Bike,18,2020-10-18
+Douberley,David,ddubbs@gmail.com,Swim,4,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Run,17,2020-10-14
+Inid,Joe,joe.inid@gmail.com,Bike,55,2020-10-22
+Douberley,John,john.douberley@gmail.com,Bike,17,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Run,59,2020-10-21
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,47,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Bike,21,2020-10-15
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,60,2020-10-18
+Van Damme,Cody,cody.vandamme@gmail.com,Run,54,2020-10-20
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,7,2020-10-17
+Douberley,David,ddubbs@gmail.com,Bike,44,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,26,2020-10-23
+Oettinger,David,oettinger@gmail.com,Swim,8,2020-10-16
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,51,2020-10-15
+Inid,Evelyn,evelyn.inid@gmail.com,Run,45,2020-10-14
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,20,2020-10-21
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,22,2020-10-18
+Perez,Cody,cody.perez@gmail.com,Swim,26,2020-10-20
+Douberley,John,john.douberley@gmail.com,Run,34,2020-10-21
+Oettinger,David,oettinger@gmail.com,Bike,60,2020-10-19
+Perez,Amy,amy.perez@gmail.com,Swim,12,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,50,2020-10-21
+Perez,Evelyn,evelyn.perez@gmail.com,Run,56,2020-10-20
+Perez,Evelyn,evelyn.perez@gmail.com,Run,34,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Bike,7,2020-10-19
+Perez,Cody,cody.perez@gmail.com,Bike,41,2020-10-15
+Perez,Kim,KP_2020@gmail.com,Bike,18,2020-10-15
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,14,2020-10-19
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,42,2020-10-21
+Douberley,John,john.douberley@gmail.com,Run,20,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Run,21,2020-10-17
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,2,2020-10-19
+Douberley,Tareq,tareq.douberley@gmail.com,Run,32,2020-10-20
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,33,2020-10-15
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,45,2020-10-14
+Douberley,John,john.douberley@gmail.com,Swim,28,2020-10-18
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,14,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,5,2020-10-21
+Van-Damme,John,john.van-damme@gmail.com,Swim,40,2020-10-19
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,36,2020-10-16
+Van-Damme,John,john.van-damme@gmail.com,Run,55,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Run,6,2020-10-22
+Perez,Cody,cody.perez@gmail.com,Bike,6,2020-10-23
+Douberley,John,john.douberley@gmail.com,Run,48,2020-10-19
+Inid,Evelyn,evelyn.inid@gmail.com,Run,40,2020-10-18
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,19,2020-10-18
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,43,2020-10-16
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,56,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,8,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,26,2020-10-19
+Van Damme,Krista,krista.vandamme@gmail.com,Run,33,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Swim,8,2020-10-15
+Perez,Kim,kim.perez@gmail.com,Bike,60,2020-10-23
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,14,2020-10-14
+Van Damme,Amy,amy.vandamme@gmail.com,Run,35,2020-10-20
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,18,2020-10-15
+Douberley,David,ddubbs@gmail.com,Swim,37,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,48,2020-10-19
+Douberley,John,john.douberley@gmail.com,Bike,4,2020-10-17
+Van Damme,David,david.vandamme@gmail.com,Bike,34,2020-10-23
+Douberley,John,john.douberley@gmail.com,Run,36,2020-10-17
+Van-Damme,John,john.van-damme@gmail.com,Bike,59,2020-10-21
+Perez,Evelyn,evelyn.perez@gmail.com,Run,2,2020-10-16
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,23,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,4,2020-10-22
+Perez,Cody,cody.perez@gmail.com,Bike,10,2020-10-17
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,20,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,30,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Run,40,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,51,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Run,18,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Run,19,2020-10-14
+Douberley,John,john.douberley@gmail.com,Swim,17,2020-10-21
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,29,2020-10-17
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,10,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Swim,4,2020-10-15
+Van Damme,Krista,krista.vandamme@gmail.com,Run,12,2020-10-20
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,35,2020-10-14
+Oettinger,David,oettinger@gmail.com,Bike,51,2020-10-19
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,5,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,3,2020-10-16
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,23,2020-10-16
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,8,2020-10-22
+Van Damme,David,david.vandamme@gmail.com,Bike,57,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Swim,49,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,11,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Run,45,2020-10-14
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,51,2020-10-17
+Inid,Joe,joe.inid@gmail.com,Run,2,2020-10-15
+Perez,Kim,kim.perez@gmail.com,Run,3,2020-10-19
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,10,2020-10-17
+Perez,Kim,KP_2020@gmail.com,Swim,22,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Run,2,2020-10-19
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,17,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,47,2020-10-20
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,56,2020-10-17
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,1,2020-10-18
+Van-Damme,John,john.van-damme@gmail.com,Swim,17,2020-10-19
+Van Damme,David,david.vandamme@gmail.com,Run,9,2020-10-15
+Van-Damme,John,john.van-damme@gmail.com,Swim,1,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,59,2020-10-15
+Inid,Joe,joe.inid@gmail.com,Bike,13,2020-10-14
+Perez,Cody,cody.perez@gmail.com,Bike,9,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Bike,25,2020-10-21
+Van Damme,David,david.vandamme@gmail.com,Run,51,2020-10-23
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,4,2020-10-19
+Perez,Kim,kim.perez@gmail.com,Bike,59,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,18,2020-10-19
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,46,2020-10-17
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,21,2020-10-19
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,51,2020-10-19
+Van Damme,David,david.vandamme@gmail.com,Run,47,2020-10-15
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,13,2020-10-21
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,21,2020-10-14
+Van Damme,David,david.vandamme@gmail.com,Run,46,2020-10-20
+Inid,Joe,joe.inid@gmail.com,Swim,45,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Run,43,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Run,8,2020-10-17
+Van Damme,David,david.vandamme@gmail.com,Run,42,2020-10-22
+Perez,Kim,kim.perez@gmail.com,Swim,46,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Run,56,2020-10-23
+Perez,Kim,kim.perez@gmail.com,Run,39,2020-10-17
+Douberley,David,ddubbs@gmail.com,Swim,40,2020-10-16
+Douberley,David,ddubbs@gmail.com,Bike,60,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,20,2020-10-16
+Van-Damme,John,john.van-damme@gmail.com,Bike,9,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Swim,43,2020-10-15
+Perez,Amy,amy.perez@gmail.com,Run,36,2020-10-17
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,15,2020-10-19
+Douberley,John,john.douberley@gmail.com,Run,47,2020-10-19
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,53,2020-10-19
+Oettinger,David,oettinger@gmail.com,Run,25,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,52,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,57,2020-10-19
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,30,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,19,2020-10-23
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,36,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Swim,45,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Swim,54,2020-10-16
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,9,2020-10-18
+Inid,Joe,joe.inid@gmail.com,Bike,28,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Swim,31,2020-10-19
+Van-Damme,John,john.van-damme@gmail.com,Run,27,2020-10-14
+Douberley,David,ddubbs@gmail.com,Swim,30,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,42,2020-10-16
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,37,2020-10-20
+Van Damme,David,david.vandamme@gmail.com,Bike,38,2020-10-23
+Perez,Kim,KP_2020@gmail.com,Run,29,2020-10-19
+Inid,Joe,joe.inid@gmail.com,Swim,37,2020-10-22
+Van Damme,David,david.vandamme@gmail.com,Swim,43,2020-10-23
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,18,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Bike,58,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,49,2020-10-16
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,2,2020-10-15
+Douberley,David,ddubbs@gmail.com,Run,21,2020-10-19
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,34,2020-10-22
+Oettinger,David,oettinger@gmail.com,Bike,13,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,55,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Run,13,2020-10-16
+Douberley,David,ddubbs@gmail.com,Swim,11,2020-10-21
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,48,2020-10-19
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,33,2020-10-21
+Douberley,David,ddubbs@gmail.com,Swim,25,2020-10-21
+Van-Damme,John,john.van-damme@gmail.com,Run,56,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Run,32,2020-10-16
+Douberley,David,ddubbs@gmail.com,Swim,48,2020-10-16
+Douberley,John,john.douberley@gmail.com,Bike,21,2020-10-22
+Perez,Kim,KP_2020@gmail.com,Swim,19,2020-10-15
+Oettinger,David,oettinger@gmail.com,Run,6,2020-10-21
+Perez,Kim,kim.perez@gmail.com,Bike,1,2020-10-17
+Inid,Joe,joe.inid@gmail.com,Swim,18,2020-10-14
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,28,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,51,2020-10-15
+Van Damme,Cody,cody.vandamme@gmail.com,Run,57,2020-10-16
+Perez,Kim,kim.perez@gmail.com,Bike,36,2020-10-20
+Van Damme,David,david.vandamme@gmail.com,Bike,18,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Swim,43,2020-10-20
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,32,2020-10-17
+Van Damme,Cody,cody.vandamme@gmail.com,Run,20,2020-10-16
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,37,2020-10-15
+Perez,Kim,kim.perez@gmail.com,Swim,29,2020-10-21
+Douberley,David,ddubbs@gmail.com,Swim,44,2020-10-16
+Douberley,Tareq,tareq.douberley@gmail.com,Run,6,2020-10-15
+Douberley,David,ddubbs@gmail.com,Run,14,2020-10-22
+Douberley,David,ddubbs@gmail.com,Run,12,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,57,2020-10-20
+Perez,Kim,KP_2020@gmail.com,Swim,12,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Swim,5,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,42,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Swim,42,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,41,2020-10-17
+Perez,Kim,kim.perez@gmail.com,Run,9,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,45,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,58,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,59,2020-10-20
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,14,2020-10-14
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,31,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Bike,13,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,4,2020-10-20
+Van Damme,David,david.vandamme@gmail.com,Run,52,2020-10-21
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,8,2020-10-17
+Oettinger,David,oettinger@gmail.com,Bike,49,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Run,36,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,1,2020-10-16
+Perez,Amy,amy.perez@gmail.com,Run,26,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Run,25,2020-10-21
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,52,2020-10-22
+Perez,Amy,amy.perez@gmail.com,Run,20,2020-10-20
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,12,2020-10-16
+Douberley,Tareq,tareq.douberley@gmail.com,Run,41,2020-10-23
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,38,2020-10-17
+Oettinger,David,oettinger@gmail.com,Bike,10,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,38,2020-10-14
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Bike,31,2020-10-19
+Douberley,John,john.douberley@gmail.com,Bike,30,2020-10-14
+Douberley,David,ddubbs@gmail.com,Run,59,2020-10-17
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,55,2020-10-16
+Perez,Cody,cody.perez@gmail.com,Run,4,2020-10-16
+Perez,Kim,KP_2020@gmail.com,Run,56,2020-10-17
+Van Damme,Krista,krista.vandamme@gmail.com,Run,50,2020-10-21
+Inid,Evelyn,evelyn.inid@gmail.com,Run,16,2020-10-19
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,59,2020-10-16
+Perez,Cody,cody.perez@gmail.com,Swim,31,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Bike,44,2020-10-18
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,18,2020-10-19
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,39,2020-10-14
+Perez,Kim,KP_2020@gmail.com,Swim,40,2020-10-23
+Perez,Amy,amy.perez@gmail.com,Swim,1,2020-10-19
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,38,2020-10-18
+Perez,Cody,cody.perez@gmail.com,Swim,14,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,12,2020-10-21
+Perez,Kim,KP_2020@gmail.com,Swim,49,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Swim,43,2020-10-19
+Van-Damme,John,john.van-damme@gmail.com,Bike,38,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,35,2020-10-23
+Oettinger,David,oettinger@gmail.com,Bike,30,2020-10-18
+Inid,Evelyn,evelyn.inid@gmail.com,Run,35,2020-10-22
+Van-Damme,John,john.van-damme@gmail.com,Bike,50,2020-10-18
+Perez,Kim,kim.perez@gmail.com,Run,9,2020-10-23
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,29,2020-10-19
+Oettinger,David,oettinger@gmail.com,Bike,31,2020-10-23
+Van Damme,David,david.vandamme@gmail.com,Swim,16,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,34,2020-10-16
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,2,2020-10-21
+Perez,Kim,kim.perez@gmail.com,Bike,32,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Run,23,2020-10-15
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,14,2020-10-14
+Douberley,David,ddubbs@gmail.com,Swim,12,2020-10-23
+Douberley,John,john.douberley@gmail.com,Run,42,2020-10-18
+Inid,Joe,joe.inid@gmail.com,Bike,31,2020-10-19
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,57,2020-10-14
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,2,2020-10-20
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,28,2020-10-17
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,31,2020-10-23
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,33,2020-10-16
+Douberley,David,ddubbs@gmail.com,Bike,12,2020-10-18
+Oettinger,David,oettinger@gmail.com,Swim,12,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,32,2020-10-17
+Oettinger,David,oettinger@gmail.com,Bike,4,2020-10-14
+Van-Damme,John,john.van-damme@gmail.com,Run,5,2020-10-17
+Perez,Cody,cody.perez@gmail.com,Bike,22,2020-10-14
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,42,2020-10-23
+Perez,Kim,KP_2020@gmail.com,Swim,39,2020-10-19
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,8,2020-10-19
+Douberley,David,ddubbs@gmail.com,Swim,15,2020-10-23
+Perez,Kim,kim.perez@gmail.com,Swim,45,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Swim,49,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,54,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,40,2020-10-21
+Van-Damme,John,john.van-damme@gmail.com,Swim,46,2020-10-16
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,32,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,16,2020-10-14
+Douberley,David,ddubbs@gmail.com,Swim,28,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Swim,44,2020-10-17
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,48,2020-10-21
+Van Damme,Cody,cody.vandamme@gmail.com,Run,40,2020-10-19
+Douberley,David,ddubbs@gmail.com,Bike,33,2020-10-23
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,29,2020-10-16
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,10,2020-10-15
+Van Damme,David,david.vandamme@gmail.com,Bike,43,2020-10-22
+Douberley,David,ddubbs@gmail.com,Bike,57,2020-10-16
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,55,2020-10-22
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,31,2020-10-21
+Douberley,John,john.douberley@gmail.com,Swim,46,2020-10-22
+Perez,Cody,cody.perez@gmail.com,Run,32,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,21,2020-10-14
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,28,2020-10-23
+Douberley,Tareq,tareq.douberley@gmail.com,Run,23,2020-10-15
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,23,2020-10-14
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,3,2020-10-22
+Douberley,David,ddubbs@gmail.com,Swim,14,2020-10-19
+Oettinger,David,oettinger@gmail.com,Swim,27,2020-10-18
+Douberley,David,ddubbs@gmail.com,Bike,22,2020-10-16
+Douberley,David,ddubbs@gmail.com,Swim,35,2020-10-23
+Inid,Evelyn,evelyn.inid@gmail.com,Run,58,2020-10-23
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,39,2020-10-14
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,55,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,56,2020-10-20
+Inid,Joe,joe.inid@gmail.com,Run,32,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Run,55,2020-10-18
+Douberley,John,john.douberley@gmail.com,Bike,18,2020-10-17
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,8,2020-10-16
+Douberley,David,ddubbs@gmail.com,Swim,32,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,5,2020-10-22
+Perez,Kim,KP_2020@gmail.com,Swim,32,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,39,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Run,7,2020-10-23
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,48,2020-10-17
+Van Damme,David,david.vandamme@gmail.com,Bike,15,2020-10-15
+Inid,Joe,joe.inid@gmail.com,Swim,50,2020-10-15
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,13,2020-10-20
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,45,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,51,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,33,2020-10-19
+Inid,Joe,joe.inid@gmail.com,Bike,1,2020-10-23
+Perez,Evelyn,evelyn.perez@gmail.com,Run,4,2020-10-14
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,23,2020-10-18
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,12,2020-10-18
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,42,2020-10-14
+Oettinger,David,oettinger@gmail.com,Run,35,2020-10-14
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,46,2020-10-18
+Inid,Evelyn,evelyn.inid@gmail.com,Run,41,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Bike,59,2020-10-21
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,52,2020-10-21
+Oettinger,David,oettinger@gmail.com,Run,11,2020-10-15
+Inid,Joe,joe.inid@gmail.com,Run,43,2020-10-23
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,59,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Run,19,2020-10-16
+Douberley,John,john.douberley@gmail.com,Swim,27,2020-10-15
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,6,2020-10-18
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,33,2020-10-22
+Inid,Joe,joe.inid@gmail.com,Run,48,2020-10-22
+Van Damme,Cody,cody.vandamme@gmail.com,Run,1,2020-10-15
+Van Damme,Krista,krista.vandamme@gmail.com,Run,8,2020-10-21
+Douberley,Tareq,tareq.douberley@gmail.com,Run,28,2020-10-22
+Van Damme,Amy,amy.vandamme@gmail.com,Run,37,2020-10-15
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,24,2020-10-17
+Perez,Cody,cody.perez@gmail.com,Bike,49,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Swim,24,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Run,37,2020-10-21
+Perez,Cody,cody.perez@gmail.com,Swim,43,2020-10-22
+Oettinger,David,oettinger@gmail.com,Run,33,2020-10-15
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,37,2020-10-23
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,31,2020-10-22
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,39,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Run,50,2020-10-15
+Inid,Joe,joe.inid@gmail.com,Run,47,2020-10-18
+Douberley,John,john.douberley@gmail.com,Swim,23,2020-10-20
+Perez,Amy,amy.perez@gmail.com,Bike,51,2020-10-15
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,9,2020-10-23
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,24,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Run,32,2020-10-17
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,29,2020-10-15
+Van Damme,Cody,cody.vandamme@gmail.com,Run,40,2020-10-16
+Perez,Kim,kim.perez@gmail.com,Bike,13,2020-10-17
+Inid,Joe,joe.inid@gmail.com,Bike,30,2020-10-15
+Oettinger,David,oettinger@gmail.com,Bike,20,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,43,2020-10-14
+Inid,Joe,joe.inid@gmail.com,Bike,41,2020-10-18
+Van Damme,Amy,amy.vandamme@gmail.com,Run,28,2020-10-17
+Van Damme,Cody,cody.vandamme@gmail.com,Run,2,2020-10-14
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,33,2020-10-15
+Van Damme,Amy,amy.vandamme@gmail.com,Run,35,2020-10-15
+Douberley,David,ddubbs@gmail.com,Bike,20,2020-10-14
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,2,2020-10-20
+Van Damme,David,david.vandamme@gmail.com,Bike,36,2020-10-16
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,11,2020-10-20
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,27,2020-10-19
+Oettinger,David,oettinger@gmail.com,Bike,41,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Run,43,2020-10-18
+Perez,Kim,kim.perez@gmail.com,Swim,32,2020-10-20
+Douberley,David,ddubbs@gmail.com,Run,3,2020-10-17
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,15,2020-10-21
+Perez,Kim,kim.perez@gmail.com,Run,30,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Swim,23,2020-10-22
+Perez,Amy,amy.perez@gmail.com,Bike,23,2020-10-21
+Perez,Kim,KP_2020@gmail.com,Run,14,2020-10-15
+Perez,Cody,cody.perez@gmail.com,Swim,57,2020-10-19
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,50,2020-10-17
+Perez,Kim,KP_2020@gmail.com,Swim,11,2020-10-22
+Douberley,John,john.douberley@gmail.com,Bike,7,2020-10-20
+Oettinger,David,oettinger@gmail.com,Bike,20,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Run,47,2020-10-19
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,42,2020-10-21
+Van-Damme,Krista,krista.van-damme@gmail.com,Swim,9,2020-10-21
+Van-Damme,Krista,krista.van-damme@gmail.com,Bike,7,2020-10-21
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,42,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,57,2020-10-15
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,37,2020-10-19
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,5,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Swim,20,2020-10-14
+Inid,Joe,joe.inid@gmail.com,Bike,29,2020-10-16
+Inid,Joe,joe.inid@gmail.com,Run,28,2020-10-15
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,9,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,45,2020-10-18
+Douberley,John,john.douberley@gmail.com,Run,8,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Run,27,2020-10-19
+Inid,Joe,joe.inid@gmail.com,Swim,20,2020-10-21
+Oettinger,David,oettinger@gmail.com,Swim,55,2020-10-14
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,7,2020-10-16
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,58,2020-10-17
+Perez,Evelyn,evelyn.perez@gmail.com,Run,6,2020-10-22
+Inid,Evelyn,evelyn.inid@gmail.com,Swim,54,2020-10-14
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,21,2020-10-22
+Inid,Joe,joe.inid@gmail.com,Bike,14,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,59,2020-10-18
+Van Damme,David,david.vandamme@gmail.com,Swim,5,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Swim,59,2020-10-14
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,57,2020-10-18
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,54,2020-10-18
+Van Damme,David,david.vandamme@gmail.com,Swim,3,2020-10-23
+Inid,Evelyn,evelyn.inid@gmail.com,Run,53,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,29,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Swim,12,2020-10-18
+Perez,Kim,kim.perez@gmail.com,Bike,40,2020-10-19
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,55,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Run,36,2020-10-20
+Van Damme,Amy,amy.vandamme@gmail.com,Run,10,2020-10-23
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,59,2020-10-22
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,23,2020-10-23
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,34,2020-10-19
+Oettinger,David,oettinger@gmail.com,Run,42,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Swim,48,2020-10-17
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,40,2020-10-14
+Douberley,David,ddubbs@gmail.com,Run,38,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Swim,1,2020-10-14
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,22,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,12,2020-10-15
+Douberley,David,ddubbs@gmail.com,Run,31,2020-10-19
+Inid,Joe,joe.inid@gmail.com,Bike,58,2020-10-19
+Perez,Amy,amy.perez@gmail.com,Swim,29,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,13,2020-10-19
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Swim,60,2020-10-21
+Perez,Amy,amy.perez@gmail.com,Run,52,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,49,2020-10-14
+Douberley,John,john.douberley@gmail.com,Run,59,2020-10-19
+Douberley,David,ddubbs@gmail.com,Swim,21,2020-10-22
+Van-Damme,Krista,krista.van-damme@gmail.com,Run,50,2020-10-23
+Perez,Cody,cody.perez@gmail.com,Run,47,2020-10-17
+Van Damme,Krista,krista.vandamme@gmail.com,Run,47,2020-10-19
+Oettinger,David,oettinger@gmail.com,Bike,39,2020-10-15
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,35,2020-10-20
+Oettinger,David,oettinger@gmail.com,Swim,39,2020-10-14
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,58,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Run,19,2020-10-14
+Van-Damme,John,john.van-damme@gmail.com,Swim,45,2020-10-22
+Douberley,David,ddubbs@gmail.com,Bike,15,2020-10-14
+Inid,Joe,joe.inid@gmail.com,Bike,9,2020-10-19
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,40,2020-10-19
+Perez,Evelyn,evelyn.perez@gmail.com,Bike,30,2020-10-15
+Perez,Evelyn,evelyn.perez@gmail.com,Run,40,2020-10-22
+Van-Damme,Joe,joe.van-damme@gmail.com,Run,3,2020-10-18
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,20,2020-10-23
+Van-Damme,John,john.van-damme@gmail.com,Run,25,2020-10-22
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,10,2020-10-15
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,20,2020-10-16
+Van Damme,Amy,amy.vandamme@gmail.com,Swim,12,2020-10-21
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,15,2020-10-22
+Douberley,David,ddubbs@gmail.com,Swim,54,2020-10-17
+Douberley,David,ddubbs@gmail.com,Run,39,2020-10-15
+Perez,Amy,amy.perez@gmail.com,Swim,15,2020-10-23
+Perez,Kim,KP_2020@gmail.com,Swim,48,2020-10-16
+Van Damme,Krista,krista.vandamme@gmail.com,Run,44,2020-10-22
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,48,2020-10-20
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,15,2020-10-22
+Oettinger,Mary-Katherine,oettinger@gmail.com,Bike,14,2020-10-15
+Douberley,David,ddubbs@gmail.com,Run,27,2020-10-20
+Van Damme,Cody,cody.vandamme@gmail.com,Run,41,2020-10-22
+Douberley,David,ddubbs@gmail.com,Bike,55,2020-10-19
+Perez,Kim,kim.perez@gmail.com,Run,41,2020-10-20
+Perez,Cody,cody.perez@gmail.com,Swim,19,2020-10-22
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,47,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Swim,2,2020-10-15
+Perez,Kim,KP_2020@gmail.com,Swim,20,2020-10-17
+Oettinger,Mary-Katherine,oettinger@gmail.com,Swim,44,2020-10-22
+Van-Damme,John,john.van-damme@gmail.com,Swim,24,2020-10-17
+Perez,Evelyn,evelyn.perez@gmail.com,Swim,16,2020-10-20
+Van-Damme,John,john.van-damme@gmail.com,Bike,12,2020-10-22
+Perez,Kim,KP_2020@gmail.com,Run,11,2020-10-16
+Van-Damme,Joe,joe.van-damme@gmail.com,Swim,31,2020-10-14
+Van Damme,Cody,cody.vandamme@gmail.com,Run,20,2020-10-15
+Perez,Cody,cody.perez@gmail.com,Run,11,2020-10-19
+Douberley,David,ddubbs@gmail.com,Run,46,2020-10-19
+Van Damme,Krista,krista.vandamme@gmail.com,Run,59,2020-10-21
+Gurrala,Evelyn,evelyn.gurrala@gmail.com,Run,38,2020-10-19
+Douberley,Tareq,tareq.douberley@gmail.com,Swim,2,2020-10-23
+Perez,Kim,kim.perez@gmail.com,Run,37,2020-10-14
+Perez,Amy,amy.perez@gmail.com,Bike,12,2020-10-19
+Van Damme,Cody,cody.vandamme@gmail.com,Run,30,2020-10-21
+Oettinger,David,oettinger@gmail.com,Swim,3,2020-10-21
+Van Damme,Krista,krista.vandamme@gmail.com,Run,19,2020-10-17
+Van-Damme,Joe,joe.van-damme@gmail.com,Bike,43,2020-10-22
+Van Damme,David,david.vandamme@gmail.com,Run,17,2020-10-14
+Oettinger,Mary-Katherine,oettinger@gmail.com,Run,9,2020-10-19
+Van Damme,Cody,cody.vandamme@gmail.com,Run,13,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Run,9,2020-10-14
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,36,2020-10-17
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,4,2020-10-15
+Perez,Amy,amy.perez@gmail.com,Bike,52,2020-10-15
+Douberley,Tareq,tareq.douberley@gmail.com,Bike,46,2020-10-20
+Van Damme,Krista,krista.vandamme@gmail.com,Bike,37,2020-10-19
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,30,2020-10-14
+Perez,Cody,cody.perez@gmail.com,Run,46,2020-10-16
+Inid,Evelyn,evelyn.inid@gmail.com,Bike,35,2020-10-18
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,9,2020-10-15
+Inid,Joe,joe.inid@gmail.com,Swim,33,2020-10-18
+Perez,Kim,KP_2020@gmail.com,Run,12,2020-10-20
+Perez,Evelyn,evelyn.perez@gmail.com,Run,20,2020-10-15
+Oettinger,David,oettinger@gmail.com,Run,41,2020-10-23
+Inid,Joe,joe.inid@gmail.com,Run,49,2020-10-22
+Douberley,David,ddubbs@gmail.com,Run,53,2020-10-19
+Van Damme,Amy,amy.vandamme@gmail.com,Bike,39,2020-10-17
+Perez,Amy,amy.perez@gmail.com,Bike,11,2020-10-20
+Perez,Kim,kim.perez@gmail.com,Run,36,2020-10-19
+Perez,Kim,KP_2020@gmail.com,Bike,29,2020-10-15
+Van Damme,Cody,cody.vandamme@gmail.com,Swim,55,2020-10-21
+Van Damme,Cody,cody.vandamme@gmail.com,Run,3,2020-10-17
+Van-Damme,John,john.van-damme@gmail.com,Run,24,2020-10-19
+Inid,Joe,joe.inid@gmail.com,Swim,32,2020-10-21
